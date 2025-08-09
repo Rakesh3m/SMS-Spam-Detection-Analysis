@@ -1,6 +1,3 @@
-# SMS Spam Detection Analysis - NLP
-
-**Complete Video Tutorial:** https://youtu.be/YklplKmCoUw
 
 # Dataset Information
 
@@ -30,4 +27,5 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 <li>SVC
 <li>Random Forest
   
+
 **Best Model Accuracy:** 98.27
